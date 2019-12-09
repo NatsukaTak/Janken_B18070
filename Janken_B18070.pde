@@ -1,4 +1,5 @@
 Board board;
+Board board;
 void setup() {
   surface.setSize(450, 300);
   board = new Board();
